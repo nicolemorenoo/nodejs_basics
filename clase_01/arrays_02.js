@@ -5,6 +5,10 @@ const may = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N
 
 console.log( may[7] + min[14] + min[11] + min[0] )
 
+console.log( may[13]+ min [8]+ min[2]+ min [14]+min[11]+min[4])
+console.log(min[19]+min[20])
+console.log(may[15]+min[0]+min[19]+min[17]+min[14]+min[13]+min[0])
+
 
 // Ahora haz log tu nombe en la consola en un sola linea.
 
